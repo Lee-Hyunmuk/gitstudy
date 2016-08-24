@@ -12,7 +12,7 @@ public class CalcTest {
 	@Test
 	public void testSub(){
 		Calc c=new Calc();
-		assertEquals(30, c.sub(10,20));
+		assertEquals(30, c.sub(50,20));
 		}
 		
 
@@ -20,5 +20,4 @@ public class CalcTest {
 	         public void testmul(){
 		                 Calc c=new Calc();
 				                 assertEquals(200, c.sub(10,20));
-						                 }
-}
+						                 }}
