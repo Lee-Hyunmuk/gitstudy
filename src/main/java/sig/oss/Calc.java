@@ -10,7 +10,7 @@ public class Calc {
 					                                   
 		}
 	
-	        public int mul(int x, int y) {//subscription method 1
+	        public int mul(int x, int y) {//subscription method 1 2
 		                                        return x*y;
 							}
 							}
