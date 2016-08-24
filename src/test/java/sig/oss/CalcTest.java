@@ -19,5 +19,5 @@ public class CalcTest {
 	 @Test
 	         public void testmul(){
 		                 Calc c=new Calc();
-				                 assertEquals(200, c.sub(10,20));
+				                 assertEquals(200, c.mul(10,20));
 						                 }}
