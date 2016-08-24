@@ -8,8 +8,11 @@ public class Calc {
 	public int sub(int x, int y) {//subscription method
 		                        return x-y;
 					                                   
-		
-		
-		
 		}
-		
+	
+	        public int mul(int x, int y) {//subscription method
+		                                        return x*y;
+							}
+							}
+
+
